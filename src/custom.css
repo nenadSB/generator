@@ -1,0 +1,14 @@
+.App {
+    background: beige;
+    background-size: cover;
+    
+}
+.card {
+    background: rgba(211, 235, 255, 0.57);
+    backdrop: blur(5px);
+    
+}
+.mime {
+    font-size: 50px;
+}
+
